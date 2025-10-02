@@ -11,7 +11,7 @@ A simple, interactive counter application built with **JavaScript**, **HTML**, a
 
 ## Demo
 
-![https://countertestapp1.netlify.app/]
+https://countertestapp1.netlify.app/
 
 ## Getting Started
 
@@ -47,10 +47,6 @@ counter-app/
 - **HTML** (34.4%)
 - **CSS** (17.9%)
 - **JavaScript** (47.7%)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
